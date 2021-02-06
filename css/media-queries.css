@@ -234,6 +234,8 @@
    #resume h1 { letter-spacing: 3px; }
    #resume .main-col { padding-right: 30px; }
    #resume h5, #resume .info { text-align: center; }
+   #resume h3, #resume .info { text-align: center; }
+   #resume p, #resume .info { text-align: center; }
    #resume .credential-logo { display: none; }
       
    .bars { width: 100%; }
