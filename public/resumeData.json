@@ -73,9 +73,14 @@
     ],
     "work":[
       {
+        "company":"Etermax",
+        "title":"Data Analyst",
+        "years":"March 2021 - Present",
+        "description":"Together with the data engineering team, we are responsible for providing strategic information for the development of video games played by millions of users."
+      },{
         "company":"Henry",
         "title":"Tech Lead",
-        "years":"May 2020 - Present",
+        "years":"May 2020 - March 2021",
         "description":"I worked organizing groups of programming students in a virtual academy."
       },
       {
