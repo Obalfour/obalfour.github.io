@@ -45,20 +45,25 @@
     ],
     "credentials":[
       {
+        "name":"Data Science In The Games Industry",
+        "company":"University of Dundee",
+        "url":"https://drive.google.com/file/d/1NbPKYc89--XtyUnztoHD2PDKBa2sBo1i"
+      },
+      {
         "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg",
         "name":"LaunchX: Becoming an Entrepreneur",
         "company":"MIT - Massachusetts Institute of Technology | EdX",
         "url":"https://courses.edx.org/certificates/ad378c1b9dfb4c029393606726b08cb4"
       },
       {
-        "name":"How to Build Chatbots",
-        "company":"IBM",
-        "url":"https://courses.cognitiveclass.ai/certificates/3e35b4876f054ad89b952f909a183d39"
-      },
-      {
         "name":"The Fundamentals of Digital Marketing",
         "company":"Google",
         "url":"https://drive.google.com/file/d/1FJk34dK5z60Nxcb2uUM2Vv-PQs5lmYJ8"
+      },
+      {
+        "name":"How to Build Chatbots",
+        "company":"IBM",
+        "url":"https://courses.cognitiveclass.ai/certificates/3e35b4876f054ad89b952f909a183d39"
       },
       {
         "name":"Corporate Social Responsibility - The Microsoft Case",
