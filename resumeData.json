@@ -151,13 +151,13 @@
         "category":"My own version of the classic game asteroids with nyan cat as its main character.",
         "image":"asteroids.png",
         "url":"github.com/Obalfour/Asteroids"
-      },
+      }/*,
       {
         "title":"Estebank Chatbot",
         "category":"Chatbot created to assist clients of the bank XYZ using IBM Watson Assistant.",
         "image":"estebank.png",
         "url":"https://github.com/Obalfour/Estebank-Chatbot"
-      }
+      }*/
     ]
   },
   "testimonials":{
