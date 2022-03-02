@@ -129,8 +129,14 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Flooder",
+        "category":"A puzzle game that works in original Nintendo Game Boy Color hardware.",
+        "image":"flooder.png",
+        "url":"https://www.ferrantecrafts.com/listing/1173804126/flooder-game-cartridge-for-game-boy"
+      },
+      {
         "title":"CryptoPokes",
-        "category":"A descentralized Pokemon trading card game using ChainLink.",
+        "category":"A descentralized Pokémon trading card game using ChainLink.",
         "image":"cryptopokes.png",
         "url":"https://obalfour.github.io/CryptoPokes"
       },
