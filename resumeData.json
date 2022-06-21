@@ -78,21 +78,31 @@
     ],
     "work":[
       {
-        "company":"Etermax",
-        "title":"Data Analyst",
-        "years":"March 2021 - Present",
-        "description":"Together with the data engineering team, we are responsible for providing strategic information for the development of video games played by millions of users."
+        "company":"Red Wolves Studios",
+        "title":"Game Developer",
+        "years":"April 2022 - Present",
+        "description":"Together with the game design team, we develope new games from initial concepts and test and maintain released games."
       },{
         "company":"Henry",
-        "title":"Tech Lead",
+        "title":"Bootcamp Assistant | Data Science",
+        "years":"February 2022 - Present",
+        "description":"Coordinate a group of students to achieve integration to the study group and guide them in the first steps of the course."
+      },{
+        "company":"Etermax",
+        "title":"Data Analyst",
+        "years":"March 2021 - January 2022",
+        "description":"Together with the data engineering team, we were responsible for providing strategic information for the development of video games played by millions of users."
+      },{
+        "company":"Henry",
+        "title":"Bootcamp Assistant | Full-Stack Development",
         "years":"May 2020 - March 2021",
-        "description":"I worked organizing groups of programming students in a virtual academy."
+        "description":"Coordinated a group of students to achieve integration to the study group and guided them in the first steps of the course."
       },
       {
         "company":"ITBA - Instituto Tecnológico de Buenos Aires",
         "title":"Teaching Assistant | Information Visualization",
         "years":"August 2020 - December 2020",
-        "description":"This course presents the fundamentals of data analysis and visualization."
+        "description":"Provided assistance in a course that presents the fundamentals of data analysis and visualization."
       }
     ],
     "skills":[
