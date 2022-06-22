@@ -81,7 +81,7 @@
         "company":"Red Wolves Studios",
         "title":"Game Developer",
         "years":"April 2022 - Present",
-        "description":"Together with the game design team, we develope new games from initial concepts and test and maintain released games."
+        "description":"Together with the game design team, we develop new games from initial concepts and test and maintain released games."
       },{
         "company":"Henry",
         "title":"Bootcamp Assistant | Data Science",
@@ -94,9 +94,9 @@
         "description":"Together with the data engineering team, we were responsible for providing strategic information for the development of video games played by millions of users."
       },{
         "company":"Henry",
-        "title":"Bootcamp Assistant | Full-Stack Development",
+        "title":"Bootcamp Tech Lead | Full-Stack Development",
         "years":"May 2020 - March 2021",
-        "description":"Coordinated a group of students to achieve integration to the study group and guided them in the first steps of the course."
+        "description":"Coordinated a group of students in a final project that consisted of programming an e-commerce website using react + node.js or a banking app using react-native."
       },
       {
         "company":"ITBA - Instituto Tecnológico de Buenos Aires",
